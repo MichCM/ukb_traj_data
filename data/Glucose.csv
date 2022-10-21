@@ -15,3 +15,10 @@ read2,44U5.00,Blood glucose 7-9.9 mmol/L
 read2,44U..12,Plasma glucose level
 read2,44U6.00,Blood glucose 10-13.9 mmol/L
 read2,44T5.00,Laboratory blood sugar
+added,44TA,-
+added,44f..,- 
+added,44f0,-
+added,44g..,-
+added,44g0,-
+added,44f1,Serum and plasma fasting glucose levels
+added,44g1,,Serum and plasma fasting glucose levels
