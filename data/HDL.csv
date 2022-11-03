@@ -5,7 +5,7 @@ read2,44PC.00,Serum random HDL cholesterol level
 ctv3,44P5.,Serum HDL cholesterol level
 ctv3,44PB.,Serum fasting HDL cholesterol level
 ctv3,44PC.,Serum random HDL cholesterol level
-ctv3-added, XaEVr, Plasma HDL cholesterol level
-ctv3-added, 44d2, Plasma random HDL cholesterol level
-ctv3-added, 44d3, Plasma fasting HDL cholesterol level 
-ctv3-added, X772M, High density lipoprotein cholesterol level
+added, XaEVr, Plasma HDL cholesterol level
+added, 44d2, Plasma random HDL cholesterol level
+added, 44d3, Plasma fasting HDL cholesterol level 
+added, X772M, High density lipoprotein cholesterol level
